@@ -1,0 +1,55 @@
+.page-title {
+     padding-top: 1.5%;
+     height: 40%;
+}
+
+.page-title .jumbotron {
+     border-radius: 20px !important;
+     background-image: url("https://s.abcnews.com/images/International/tiananmen-square-02-ap-jc-190530_hpMain_16x9_1600.jpg");
+     background-position: bottom;
+     color: white;
+     border-style: solid;
+     border-width: 2px;
+     border-color: black;
+}
+
+.column {
+     border-style: solid;
+     border-width: 2px;
+     border-color: black;
+     border-radius: 20px !important;
+     background-color: white;
+     padding: 0px !important;
+}
+
+.column-1 {
+     float: left;
+}
+
+.column-2 {
+     float: right;
+}
+
+.column img {
+     max-width: 100%;
+     border-radius: 20px;
+     padding: 0px;
+}
+
+.column p {
+     font-size: 14px;
+     color: black;
+     padding: 2px;
+}
+
+body {
+     font-family: Arial, sans-serif;
+}
+
+.title-jumbotron h1,
+.title-jumbotron p {
+     background-color: black;
+     display: inline-block;
+     padding: 5px;
+     border-radius: 10px;
+}
