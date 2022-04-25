@@ -1,7 +1,4 @@
 window.onload = function () {
-     // if (location.protocol !== "https:") {
-     //      location.protocol = "https:";
-     // }
      resizeColumn()
      window.addEventListener("resize", resizeColumn);
 }
